@@ -5,3 +5,4 @@
 - --no-ff merge option
 - 测试远程分支
 - 合并远程分支
+- "git status"命令使用
