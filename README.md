@@ -4,3 +4,4 @@
 - feature1第一次提交
 - --no-ff merge option
 - 测试远程分支
+- 合并远程分支
